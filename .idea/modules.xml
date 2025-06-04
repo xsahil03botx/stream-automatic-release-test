@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/stream-automatic-release-package-one/melos_stream_automatic_release_package_one.iml" filepath="$PROJECT_DIR$/packages/stream-automatic-release-package-one/melos_stream_automatic_release_package_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/stream-automatic-release-package-two/melos_stream_automatic_release_package_two.iml" filepath="$PROJECT_DIR$/packages/stream-automatic-release-package-two/melos_stream_automatic_release_package_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_streamautomaticreleasetest.iml" filepath="$PROJECT_DIR$/melos_streamautomaticreleasetest.iml" />
+    </modules>
+  </component>
+</project>
