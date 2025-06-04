@@ -1,3 +1,7 @@
+## 2.0.0
+
+- Updated to support the latest API changes.
+
 ## 2.0.0-beta.1
 
 - Updated to support the latest API changes.
