@@ -1,5 +1,6 @@
 name: stream_automatic_release_package_one
 description: A starting point for Dart libraries or applications.
+repository: https://github.com/xsahil03x/stream-automatic-release-test
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
